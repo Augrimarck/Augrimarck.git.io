@@ -1,0 +1,31 @@
+body{
+    overflow: hidden;
+}
+
+.Log{
+    width: 48vw;
+    height: 5vh;
+    text-align: center;
+}
+.container{
+    padding-top: 5%;
+    border-radius: 30px;
+    width: 50vw;
+    height: 65vh;
+    background-color: #ffffff30;
+    backdrop-filter: blur(10px);
+    color: aqua;
+}
+.container1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(/tumblr_4c989428ba947bc4966e07e76d36bd28_fdb109b1_1280.gif);
+    display: flex;
+    align-items: center;
+    background-size: cover;
+}
+
+button{
+    display: flex;
+    margin-left: 45%;
+}
